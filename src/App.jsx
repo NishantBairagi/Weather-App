@@ -4,7 +4,7 @@ import Historical from "./pages/Historical";
 import "./App.css";
 
 export default function App() {
-  const [page, setPage] = useState("");
+  const [page, setPage] = useState("current");
 
   return (
     <div className="all flex-col justify-between  min-h-screen">
