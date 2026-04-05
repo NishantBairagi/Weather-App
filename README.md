@@ -1,27 +1,38 @@
-<<<<<<< HEAD
-# Weather-App
-=======
+# 🌦 Weather Dashboard
 
+A modern, responsive weather dashboard built using ReactJS and Open-Meteo API. It provides real-time and historical weather insights with interactive charts.
 
-## Features
-- Real-time weather using Open-Meteo API
-- GPS-based location detection
-- Hourly weather charts
-- Historical data analysis
-- Temperature unit toggle
-- Responsive design
+---
 
-## Tech Stack
-- ReactJS
+## 🚀 Features
+
+- 📍 GPS-based location detection
+- 🌡 Real-time weather data
+- 📊 Hourly weather charts
+- 📅 Historical data analysis (up to 2 years)
+- 🔄 Temperature unit toggle (°C / °F)
+- 📱 Fully responsive design
+- 🎨 Premium UI with Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+- ReactJS (Vite)
 - Tailwind CSS
-- Recharts
-- Axios
+- Recharts (Charts)
+- Axios (API calls)
 
-## Live Demo
-[Your Link Here]
+---
 
-## Setup
-npm install  
-npm run dev  
+## 🌐 Live Demo
 
+👉 https://your-app.vercel.app
 
+---
+
+## ⚙️ Setup Instructions
+
+```bash
+npm install
+npm run dev
