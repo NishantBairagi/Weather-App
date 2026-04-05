@@ -24,5 +24,4 @@
 npm install  
 npm run dev  
 
-## Screenshots
-(Add images)
+
