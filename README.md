@@ -38,7 +38,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Home Page
+![Home Page](./screenshots/Dashboard.png)
+
+### Dashboard View
+![Historical charts](./screenshots/Historical.png)
 
 ---
 
