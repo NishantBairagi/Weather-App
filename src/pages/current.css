@@ -1,0 +1,21 @@
+
+@media (max-width: 640px) { 
+   .current{
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+}
+  }
+  .inpt{
+    border-radius: 5px;
+    background-color: rgba(70, 70, 85, 0.624);
+    width:70%;
+    color: aliceblue;
+  
+  }
+  .btn{
+    margin-top: 1em;
+    background:linear-gradient(to right,#0f172a,#677ee5);
+    color: white;
+  }

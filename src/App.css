@@ -1,0 +1,9 @@
+.all{
+  display: flex;
+background-color: rgb(28, 7, 123);
+background: linear-gradient(to right,rgb(46, 24, 147) 20%,rgb(28, 7, 123) 80%);
+color: white;
+}
+.btn{
+  border-radius: 10%;
+}
