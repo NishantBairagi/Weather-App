@@ -25,7 +25,7 @@ A modern, responsive weather dashboard built using ReactJS and Open-Meteo API.
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+(https://weather-app-xi-six-80.vercel.app/)
 
 ---
 
